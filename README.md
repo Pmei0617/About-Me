@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pmei0617
+- 👋 Hi, I’m Peter Mei
 - 👀 I’m interested in business/data analytics
-- 🌱 I’m currently learning SQL, Excel, google sheets, business analytics program certificate
+- 🌱 I’m currently learning SQL, Excel and Python
 - 💞️ I’m looking to collaborate on learning experience 
 - 📫 How to reach me : petermei0617@gmail.com
 
