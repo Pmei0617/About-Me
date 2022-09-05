@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Peter Mei
+- 👋 Hi, I’m Sheng-Ya (Peter) Mei
 - 👀 I’m interested in business/data analytics
-- 🌱 I’m currently learning SQL, Excel and Python
+- 🌱 I’m currently learning SQL, Python, ML and R
 - 💞️ I’m looking to collaborate on learning experience 
 - 📫 How to reach me : petermei0617@gmail.com
 
