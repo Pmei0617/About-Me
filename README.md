@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sheng-Ya (Peter) Mei
 - 👀 I’m interested in business/data analytics
-- 🌱 I’m currently learning SQL, Python, ML and R
-- 💞️ I’m looking to collaborate on learning experience 
-- 📫 How to reach me : petermei0617@gmail.com
+- 🌱 I’m currently doing my masters in business analytics at UW-Madison
+- 💞️ I’m looking to collaborate on learning experiences! 
+- 📫 How to reach me : mei29@wisc.edu
 
 <!---
 Pmei0617/Pmei0617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
