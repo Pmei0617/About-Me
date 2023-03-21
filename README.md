@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on learning experiences! 
 - 📫 How to reach me : mei29@wisc.edu or mobile(US) 608-421-9466
 
-I have a real passion in data analysis and I have a strong desire to bring out any kind of business insights that would benefit my stakeholders and drive business growth by presenting complex analysis in a well documented manner and with easy to understand visualizations. 
+I have a real passion in data analysis and a strong desire to explore and present business insights to stakeholders which drives business growth. I am experienced in technical documentation and presenting complex data analysis in an easy to understand manner with appropriate visualizations. 
 
 This repository includes some of the projects I have worked on through out my time in the MSBA program at Wisconsin School of Business. Feel free to reach out if there are any questions!
 
