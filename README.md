@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sheng-Ya (Peter) Mei. I am from Taiwan!
 - 🌱 I’m currently doing my Master's degree in Business Analytics at UW-Madison, Wisconsin School of Business
-- 👀 I’m interested in the following roles: Business analytst | Marketing analyst | Data analyst | Data scientist | Operations analyst | Related analyst roles
+- 👀 I’m actively looking for the following roles: Business analytst | Marketing analyst | Data analyst | Data scientist | Operations analyst | Related analyst roles
 - 👩‍💻 I’m familar with Python, R Studio, SQL, Tableau, PowerBI, Excel, ML concepts, AWS, Data pipeline, Data warehouse, Marketing metrics
 - 💞️ I’m looking to collaborate on learning experiences! 
 - 📫 How to reach me : mei29@wisc.edu or mobile(US) 608-421-9466
