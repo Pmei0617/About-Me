@@ -11,8 +11,8 @@ Roles I am actively seeking - Data analyst | Marketing analyst | Data scientist 
 I have a real passion in data analytics and a strong desire to explore, learn, experiment and present business insights to stakeholders that drives actions and business growth. I am experienced in technical documentation and presenting complex data analysis in an easy to understand manner with appropriate visualizations. 
 
 Contact
-mei29@wisc.edu
-+1 608-421-9466
+Email: mei29@wisc.edu
+Mobile: +1 608-421-9466
 
 <!---
 Pmei0617/Pmei0617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
