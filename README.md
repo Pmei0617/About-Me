@@ -1,13 +1,18 @@
-- 👋 Hi, I’m Sheng-Ya (Peter) Mei. I am from Taiwan!
-- 🌱 I’m currently doing my Master's degree in Business Analytics at UW-Madison, Wisconsin School of Business
-- 👀 I’m actively looking for the following roles: Business analytst | Marketing analyst | Data analyst | Data scientist | Operations analyst | Related analyst roles
-- 👩‍💻 I’m familar with Python, R Studio, SQL, Tableau, PowerBI, Excel, ML concepts, AWS, Data pipeline, Data warehouse, Marketing metrics
-- 💞️ I’m looking to collaborate on learning experiences! 
-- 📫 How to reach me : mei29@wisc.edu or mobile(US) 608-421-9466
+My name is ShengYa Mei (Peter) and I am from Taiwan. I am currently doing my Master's degree in Business Analytics at UW-Madison, Wisconsin School of Business
 
-I have a real passion in data analysis and a strong desire to explore and present business insights to stakeholders which drives business growth. I am experienced in technical documentation and presenting complex data analysis in an easy to understand manner with appropriate visualizations. 
+Technical tools - Python, RStudio, SQL, MySQL, Snowflake, Tableau, PowerBI, Excel, AWS (Redshift, SageMaker, S3)
 
-This repository includes some of the projects I have worked on through out my time in the MSBA program at Wisconsin School of Business. Feel free to reach out if there are any questions!
+Technical skills - EDA, Data cleaning, Feature engineering, Machine Learning, Optimization, Database, Data Warehouse, Marketing analytics, Campaign evaluation, Segmentation, Text analytics, Technical documentation
+
+Soft skills - Detail-oriented, Team player, Communication, Dedicated, Presentation, Passionate
+
+Roles I am actively seeking - Data analyst | Marketing analyst | Data scientist | Digital marketing analyst | Healthcare analyst | Related analyst roles
+
+I have a real passion in data analytics and a strong desire to explore, learn, experiment and present business insights to stakeholders that drives actions and business growth. I am experienced in technical documentation and presenting complex data analysis in an easy to understand manner with appropriate visualizations. 
+
+Contact
+mei29@wisc.edu
++1 608-421-9466
 
 <!---
 Pmei0617/Pmei0617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
