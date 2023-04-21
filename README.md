@@ -1,4 +1,4 @@
-### My name is ShengYa Mei (Peter) and I am from Taiwan! I am currently doing my Master's degree in Business Analytics at UW-Madison, Wisconsin School of Businessh, graduating in May 2023
+### My name is ShengYa Mei (Peter) and I am from Taiwan! I am currently doing my Master's degree in Business Analytics at UW-Madison, Wisconsin School of Business, graduating in May 2023
 
 ***Technical tools*** - Python, RStudio, SQL, MySQL, Snowflake, Tableau, PowerBI, Excel, AWS (Redshift, SageMaker, S3), dbt, DataRobot
 
