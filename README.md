@@ -6,6 +6,7 @@
 ### **Roles I am actively seeking** - Data analyst | Business analyst | Marketing analyst | Supply chain analyst | Digital marketing analyst | Healthcare analyst | Related analyst roles
 
 ### Please check out projects I have worked on in my repository
+##
 
 **Technical tools** - Python, R, SQL, MySQL, Snowflake, Tableau, PowerBI, Looker Studio, Excel, AWS (Redshift, SageMaker, S3), dbt, DataRobot, SAP ERP
 
