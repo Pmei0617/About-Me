@@ -1,14 +1,16 @@
-### My name is ShengYa Mei (Peter) and I am from Taiwan! I am currently doing my Master's degree in Business Analytics at UW-Madison, Wisconsin School of Business, graduating in May 2023
+### My name is ShengYa Mei (Peter) and I am from Taiwan! I graduated with a Master's degree in Business Analytics from UW-Madison (WSB) in May 2023 and started working as a Logistics Operation Specialist for a Start-up in the Cross-border Ecommerce space. I love data and the ambiguity data presents. Being able to extract valuable insights from data that results in postive changes gives me the greatest sense of achievement.
 
-***Technical tools*** - Python, RStudio, SQL, MySQL, Snowflake, Tableau, PowerBI, Excel, AWS (Redshift, SageMaker, S3), dbt, DataRobot
+***Technical tools*** - Python, R, SQL, MySQL, Snowflake, Tableau, PowerBI, Looker Studio, Excel, AWS (Redshift, SageMaker, S3), dbt, DataRobot, SAP ERP
 
-***Technical skills*** - EDA, Data cleaning, Feature engineering, Machine Learning (Linear, Logistic, RandomForest, Classification, Clustering, Neural network), Optimization, Database, Data Warehouse, Marketing analytics, Marketing Mix-Modeling, Conjoint analysis, Campaign evaluation, Segmentation, Text analytics, Technical documentation
+***Technical skills*** - EDA, Data cleaning, Feature engineering, Machine Learning (Linear, Logistic, RandomForest, Classification, Clustering, Neural network), Technical documentation
 
-***Soft skills*** - Detail-oriented, Team player, Communication, Dedicated, Presentation, Passionate
+***Marketing-specific technical skills*** - Marketing analytics, Marketing Mix-Modeling, Conjoint analysis, Campaign evaluation, Customer Segmentation, Text analytics
 
-***Roles I am actively seeking*** - Data analyst | Marketing analyst | Data scientist | Digital marketing analyst | Healthcare analyst | Related analyst roles
+***Soft skills*** - Detail-oriented, Team player, Communication, Dedicated, Presentation, Leadership, Consultative approach, Problem-solving
 
-I have a real passion in data analytics and a strong desire to explore, learn, experiment and present business insights to stakeholders that drives actions and business growth. I am experienced in technical documentation and presenting complex data analysis in an easy to understand manner with appropriate visualizations. 
+***Industry knowledge*** - Healthcare, Marketing, Supply Chain, 
+
+***Roles I am actively seeking*** - Data analyst | Business analyst | Marketing analyst | Supply chain analyst | Digital marketing analyst | Healthcare analyst | Related analyst roles
 
 
 
