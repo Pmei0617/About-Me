@@ -1,7 +1,7 @@
 ### My name is ShengYa Mei (Peter) and I am from Taiwan! I graduated with a Master's degree in Business Analytics from UW-Madison (WSB) in May 2023 and started working as a Logistics Operation Specialist for a Start-up in the Cross-border Ecommerce space. 
 ### I love data and the ambiguity data presents. Being able to extract valuable insights from data that results in postive changes gives me the greatest sense of achievement. 
 
-### I am now open to work!
+***I am now open to work!***
 
 **Roles I am actively seeking** - Data analyst | Business analyst | Marketing analyst | Supply chain analyst | Digital marketing analyst | Healthcare analyst | Related analyst roles
 
@@ -13,7 +13,7 @@
 
 **Soft skills** - Detail-oriented, Team player, Communication, Dedicated, Presentation, Leadership, Consultative approach, Problem-solving
 
-**Industry knowledge** - Healthcare, Marketing, Supply Chain, 
+**Industry knowledge** - Healthcare, Marketing, Supply Chain
 
 
 
