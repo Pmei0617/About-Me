@@ -3,7 +3,8 @@
 
 ## I am now open to work!
 
-### ***Roles I am actively seeking*** - Data analyst | Business analyst | Marketing analyst | Supply chain analyst | Digital marketing analyst | Healthcare analyst | Related analyst roles
+### ***Roles I am actively seeking***
+#### Data analyst | Business analyst | Marketing analyst | Supply chain analyst | Digital marketing analyst | Healthcare analyst | Related analyst roles
 
 ### Please check out projects I have worked on in my repository
 ##
